@@ -42,4 +42,4 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
 
 ## Authors 
 
-* **COMPUTER SCIENCE AND HACK**
+* **Faisal Javid**
